@@ -1,2 +1,3 @@
 # hello-world
-My first repository on Github!
+
+I am a designer in the making currently studying Advertising and Brand design. 
