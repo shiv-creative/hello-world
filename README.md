@@ -1,3 +1,3 @@
 # hello-world
 
-I am a designer in the making currently studying Advertising and Brand design. 
+I am a creative currently studying how to programme. 
